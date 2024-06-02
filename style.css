@@ -47,7 +47,7 @@ body {
   place-content: center;
   min-height: 100vh;
   background: url(images/bg-intro-mobile.png);
-  background-color: var(--clr-primary1-hsla);
+  background-color: var(--clr-primary1);
   font-weight: var(--fw-normal);
   color: white;
 }
